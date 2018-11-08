@@ -1,0 +1,5 @@
+/Users/user/Projects/testList/testList/bin/Debug/testList.exe
+/Users/user/Projects/testList/testList/bin/Debug/testList.pdb
+/Users/user/Projects/testList/testList/obj/x86/Debug/testList.csproj.CoreCompileInputs.cache
+/Users/user/Projects/testList/testList/obj/x86/Debug/testList.exe
+/Users/user/Projects/testList/testList/obj/x86/Debug/testList.pdb
